@@ -1,0 +1,11 @@
+PatientID,Age,Gender,Diagnosis,PrimaryMedication,DosageMg,TreatmentDurationDays,Readmitted,BloodPressure,CholesterolLevel
+PAT-201,42,Male,Hypertension,Amlodipine,10,90,No,138/88,210
+PAT-202,58,Female,Type 2 Diabetes,Metformin,500,180,No,128/80,195
+PAT-203,67,Male,Heart Disease,Atorvastatin,40,120,Yes,145/92,245
+PAT-204,35,Female,Asthma,Albuterol,2,30,No,118/75,180
+PAT-205,71,Female,Osteoarthritis,Ibuprofen,400,60,Yes,132/84,205
+PAT-206,50,Male,Type 2 Diabetes,Metformin,850,90,No,125/82,215
+PAT-207,63,Female,Hypertension,Lisinopril,20,150,No,135/86,220
+PAT-208,29,Male,Allergic Rhinitis,Cetirizine,10,14,No,115/72,175
+PAT-209,76,Male,Heart Disease,Clopidogrel,75,365,Yes,150/95,260
+PAT-210,48,Female,Hypothyroidism,Levothyroxine,0.05,180,No,122/78,190
